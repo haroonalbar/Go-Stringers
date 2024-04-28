@@ -17,5 +17,5 @@ func (c Car) String() string {
 func main() {
 	a := Car{"Bugatti", 5}
 	b := Car{"Ferrari", 1}
-	fmt.Println(a,b)
+	fmt.Println(a, b)
 }
